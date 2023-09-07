@@ -66,3 +66,11 @@ a:visted {
 	width: auto;
 	visibility: hidden;
 }
+#layoutcred{
+	position: absolute;
+	bottom: 150px;
+	font-size: 8px;
+	font-weight: normal;
+	color: #000000;
+	line-height:10px;
+}
